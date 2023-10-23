@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-This PWA is a text editor that runs in the browser. This application allows you to take and store notes or code snippets whether you're online or offline and your notes will persist upon page refresh. Please see User Story and Acceptance Criteria below:
+This PWA is a text editor that runs in the browser. This application allows you to take and store notes or code snippets whether you're online or offline. Please see User Story and Acceptance Criteria below:
 
 User Story: 
 
@@ -59,10 +59,6 @@ N/A
 In order to use this application, go to my webpage [here](https://aqueous-earth-61873-b9d107970637.herokuapp.com/). You can either use this application from the browser or click the install button and have the application installed onto your local computer. You can type in any notes or code snippets into the text-editor and these will persist upon page reload regardless of being online or offline.
 
 Link to deployed application: https://aqueous-earth-61873-b9d107970637.herokuapp.com/
-
-## Demo
-
-N/A
 
 ## Credits
 
