@@ -56,9 +56,9 @@ N/A
 
 ## Usage
 
-In order to use this application, go to my webpage [here](https://aqueous-earth-61873.herokuapp.com/). You can either use this application from the browser or click the install button and have the application installed onto your local computer. You can type in any notes or code snippets into the text-editor and these will persist upon page reload regardless of being online or offline.
+In order to use this application, go to my webpage [here](https://aqueous-earth-61873-b9d107970637.herokuapp.com/). You can either use this application from the browser or click the install button and have the application installed onto your local computer. You can type in any notes or code snippets into the text-editor and these will persist upon page reload regardless of being online or offline.
 
-Link to deployed application: https://aqueous-earth-61873.herokuapp.com/
+Link to deployed application: https://aqueous-earth-61873-b9d107970637.herokuapp.com/
 
 ## Demo
 
